@@ -1,0 +1,8 @@
+D:\Projects\dotnet\AppLogger\AppLogger\bin\Release\netstandard1.4\AppLogger.deps.json
+D:\Projects\dotnet\AppLogger\AppLogger\bin\Release\netstandard1.4\AppLogger.dll
+D:\Projects\dotnet\AppLogger\AppLogger\bin\Release\netstandard1.4\AppLogger.pdb
+D:\Projects\dotnet\AppLogger\AppLogger\obj\Release\netstandard1.4\AppLogger.csprojResolveAssemblyReference.cache
+D:\Projects\dotnet\AppLogger\AppLogger\obj\Release\netstandard1.4\AppLogger.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\AppLogger\AppLogger\obj\Release\netstandard1.4\AppLogger.AssemblyInfo.cs
+D:\Projects\dotnet\AppLogger\AppLogger\obj\Release\netstandard1.4\AppLogger.dll
+D:\Projects\dotnet\AppLogger\AppLogger\obj\Release\netstandard1.4\AppLogger.pdb
